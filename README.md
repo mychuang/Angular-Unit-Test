@@ -5,3 +5,5 @@
 - SpyOn: 注入服務的模擬測試方法
 
 - pipeMethod: 管道使用與測試
+
+- isolatedService: service 的孤立測試

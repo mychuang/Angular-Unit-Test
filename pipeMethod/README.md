@@ -107,4 +107,11 @@ it('should show "none"', ()=>{
 })
 ```
 
+Refer:
+
+- https://dotblogs.com.tw/wellwind/2017/02/09/angular2-customize-pipe
+
+- https://ithelp.ithome.com.tw/articles/10223764
+
+- https://ithelp.ithome.com.tw/articles/10187136
 
