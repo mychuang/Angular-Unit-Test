@@ -1,0 +1,32 @@
+{
+  "Location": [
+    {
+      "ID": 1,
+      "LOC_CD": "ATLNZ",
+      "LOC_NAME": "LINZ",
+      "CNTRY_CODE": "AT",
+      "STATE": "OB"
+    },
+    {
+      "ID": 2,
+      "LOC_CD": "CHBSL",
+      "LOC_NAME": "BASEL",
+      "CNTRY_CODE": "CH",
+      "STATE": "BS"
+    },
+    {
+      "ID": 3,
+      "LOC_CD": "CHFKD",
+      "LOC_NAME": "FRENKENDORF",
+      "CNTRY_CODE": "CH",
+      "STATE": "BL"
+    },
+    {
+      "ID": 4,
+      "LOC_CD": "DEBER",
+      "LOC_NAME": "BERLIN",
+      "CNTRY_CODE": "DE",
+      "STATE": "BE"
+    }
+  ]
+}

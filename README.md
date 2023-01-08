@@ -7,3 +7,5 @@
 - pipeMethod: 管道使用與測試
 
 - isolatedService: service 的孤立測試
+
+- SpyOnHttp: 使用HttpClient 與 service 的孤立測試
