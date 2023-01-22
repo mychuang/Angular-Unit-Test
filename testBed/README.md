@@ -144,7 +144,7 @@ Refer to [SpyOnHttp](../SpyOnHttp/README.md)創建相關服務
 
   ```
   ng g service service/location
-  cd SpyOnHttp/src/app/
+  cd src/app/
   mkdir model
   cd model
   vi location.ts

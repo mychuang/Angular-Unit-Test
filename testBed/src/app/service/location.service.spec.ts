@@ -50,7 +50,6 @@ describe('LocationService', ()=>{
     //act
     //mockHttp.get.and.returnValue(of(location));
 
-    //assert
     service.getLocation().subscribe({
       next: (res)=>{
         expect(res).toEqual(location);
@@ -58,6 +57,7 @@ describe('LocationService', ()=>{
       }
     })
 
+    //assert
     //expect(mockHttp.get).toHaveBeenCalledTimes(1);
 
     /*

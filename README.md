@@ -10,4 +10,6 @@
 
 - SpyOnHttp: 使用HttpClient 與 service 的孤立測試
 
-- testBed: 說明使用TestBed 測試單一, 整合與httpClient service
+- testBed: 使用 TestBed 單一, 整合與 httpClient get service 測試
+
+- testBed2: 使用 httpClient CRUD service 測試
